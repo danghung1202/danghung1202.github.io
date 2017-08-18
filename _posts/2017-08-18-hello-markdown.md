@@ -1,3 +1,8 @@
+---
+layout: post
+title: Welcome to StackEdit!
+---
+
 Welcome to StackEdit!
 ===================
 
